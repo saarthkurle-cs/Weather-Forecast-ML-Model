@@ -7,5 +7,7 @@ Pre-requisites: Need to have python3 installed
 
 Steps to Run:
 Download the python and csv file and save them in the same directory.
+
 Open Terminal and navigate to the directory where the file is stored.
+
 Run the command: python3 model.py
