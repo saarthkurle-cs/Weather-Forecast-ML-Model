@@ -6,8 +6,9 @@ This ML model reads in data from pdsep2023.csv using pandas and uses Naive-Bayes
 Pre-requisites: Need to have python3 installed
 
 Steps to Run:
-Download the python and csv file and save them in the same directory.
 
-Open Terminal and navigate to the directory where the file is stored.
+1.Download the python and csv file and save them in the same directory.
 
-Run the command: python3 model.py
+2. Open Terminal and navigate to the directory where the file is stored.
+
+3. Run the command: python3 model.py
